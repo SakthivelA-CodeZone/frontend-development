@@ -1,0 +1,32 @@
+.sidebar1{
+  position: fixed;
+  left: 100px;
+  
+  display: block;
+
+  
+  
+}
+
+.side{
+  background-color:white;
+  width: 90px;
+  height: 90px;
+  margin-bottom: 1px;
+  margin-left: 55px;
+  margin-top: 1px;
+
+  
+
+}
+.side:hover{
+  background-color: rgb(221, 220, 220);
+  cursor: pointer;
+}
+
+
+.side img{
+  height: 40px ;
+  padding: 25px;
+
+}

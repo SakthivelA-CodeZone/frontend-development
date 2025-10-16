@@ -1,0 +1,107 @@
+.in  {
+        width: 350px;
+        height: 40px;
+        border: 2px solid black;
+        font-size: 18px;
+       
+        display: block;
+                            
+      }
+
+
+      .header{
+        height: 90px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        position: fixed;
+        top: 0PX;
+        bottom: 0PX;
+        right: 40PX;
+        background-color: white;
+        border-bottom-width: 1px;
+        border-bottom-style:solid ;
+        border-bottom-color:black ;
+
+
+        
+        
+      
+       
+      }
+
+      .left-section{
+       
+        
+        display: flex;
+        align-items: center;
+      }
+      .right-section{
+        
+        width: 100px;
+        display: flex;
+        align-items: center;
+        margin-right: 200px;
+      }
+      .middle-section{
+        
+        flex: 1;
+        margin-left: 70px;
+        margin-right: 40px;
+        max-width: 500px;
+        display: flex;
+        align-items: center;
+      }
+      .leftmenu{
+        height: 25px;
+        width: 35px;
+        margin-right: 10PX;
+        margin-left: 70PX;
+      }
+      .youicon{
+        height: 95px;
+        width: 100px;
+        margin-left: 40px;
+      }
+      .middlesearch{
+        width: 30px;
+        height: 20px;
+        margin-right: 27PX;
+        
+      }
+      .middlemic{
+        width: 28px;
+        height: 20px;
+        
+      }
+      .buttonfors{
+        height: 46px;
+         border: 2px solid black;
+         border-radius: 1px;
+      }
+      .buttonformic{
+        height: 46px;
+        margin-left: 49px;
+        border: 2px solid black;
+        
+        border-radius: 20px;
+        margin-right: 29PX;
+      }
+
+
+      .rightv{
+        height: 55px;
+        width: 55px;
+        margin-right: 0PX;
+      }
+      .rightml{
+        height: 45px;
+        width: 50px;
+        margin-left: 20px;
+        margin-right: 20px;
+      }
+      .rightn{
+        height: 45px;
+        width: 50px;
+        
+      }

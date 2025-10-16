@@ -1,0 +1,70 @@
+
+     .th1views{
+      margin-top: 0px;
+      width: 500px;
+      color: rgb(96,96, 96);
+     }
+     .th1ath{
+      margin-bottom: 5px;
+      color: rgb(96,96, 96);
+      margin-top: 9px;
+     }
+
+
+      .th1{
+        width: 300px;
+        display: block;
+       
+
+      }
+
+      
+    
+      .th1ath,.th1views{
+        display: block;
+      }
+      
+      .div1,.div1{
+        display: inline-block;
+        width:300px ;
+        vertical-align: top;
+        margin-right: 30px;
+      }
+     
+      .profile1{
+        width: 50px;
+          border-radius: 40px;
+        
+        
+        margin-top: 15px;
+        margin-bottom: 100px;
+        
+       
+      }
+   .left1{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 10PX;
+    margin-left: 2PX;
+    
+   
+    
+   }
+   .videoinfo{
+    display: inline-block;
+    width: 230px;
+   }
+   .left0{
+    width: 100%;
+   
+   }
+   
+  .gridforsuper{
+    display: grid;
+    grid-template-columns: 60px 1fr;
+
+  }
+  .divall{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+  }
